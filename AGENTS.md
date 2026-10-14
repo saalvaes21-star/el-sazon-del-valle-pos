@@ -73,7 +73,8 @@ Acompañados con papas a la francesa y nopales.
 
 - Café de Olla (endulzado con piloncillo): Chico $15.00 / Grande $20.00
 - Café con Leche o Crema: Chico $15.00 / Grande $20.00
-- Té (Manzanilla / Limón): Chico $10.00 / Grande $15.00
+- Té Manzanilla: Chico $10.00 / Grande $15.00
+- Té Limón: Chico $10.00 / Grande $15.00
 
 ## ⚠️ Reglas Indispensables para Agentes
 
